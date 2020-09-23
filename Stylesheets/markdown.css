@@ -1,0 +1,137 @@
+@import "reset.css";
+
+@font-face{
+  font-family: 'Roboto-Regular';
+  src: url(../Fonts/Roboto-Regular.woff);
+}
+@font-face{
+  font-family: 'Roboto-Medium';
+  src: url(../Fonts/Roboto-Medium.woff);
+}
+
+@font-face{
+  font-family: 'Roboto-Bold';
+  src: url(../Fonts/Roboto-Bold.woff);
+}
+
+h1 {
+  font-family: 'Roboto';
+  font-weight: regular;
+  font-size: 26px;
+  line-height: 32px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+h2 {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.15px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+
+}
+
+h3 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+h4 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  margin-top: 24px;
+  margin-bottom: 4px;
+}
+
+p {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  padding-bottom: 12px;
+}
+
+q {
+  font-family: 'Roboto';
+  display: block;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.25px;
+  color: #6D7986;
+  padding-bottom: 12px;
+  padding-top: 2px;
+}
+
+li{
+    font-family: Roboto;
+    display: list-item;
+    padding-left: 4px;
+    padding-bottom: 12px;
+}
+
+li q{
+    padding-bottom: 0px;
+}
+
+ul {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  padding-left: 17px;
+  display: block;
+  list-style-type: disc;
+}
+ul li {
+  list-style-type: "–  ";
+  list-style-position: outside;
+}
+
+ol {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.15px;
+  padding-left: 17px;
+  display: block;
+  list-style-type: decimal;
+}
+
+ol li {
+  list-style-position: outside;
+  display: list-item;
+  padding-left: 4px;
+}
+
+img{
+    display: block;
+    width: 100%;
+    padding-bottom: 12px;
+    padding-top: 24px;
+}
+b{
+    font-family: 'SFTBold';
+    font-weight: bold;
+}
+.hero-img{
+    width: calc(100% + 48px);
+    margin-left: -24px;
+    margin-right: -24px;
+    padding-top: 0;
+}
