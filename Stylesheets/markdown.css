@@ -1,19 +1,5 @@
 @import "reset.css";
 
-@font-face{
-  font-family: 'Roboto-Regular';
-  src: url(../Fonts/Roboto-Regular.woff);
-}
-@font-face{
-  font-family: 'Roboto-Medium';
-  src: url(../Fonts/Roboto-Medium.woff);
-}
-
-@font-face{
-  font-family: 'Roboto-Bold';
-  src: url(../Fonts/Roboto-Bold.woff);
-}
-
 h1 {
   font-family: 'Roboto';
   font-weight: regular;
