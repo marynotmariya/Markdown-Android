@@ -2,7 +2,7 @@
 
 h1 {
   font-family: 'Roboto';
-  font-weight: bold;
+  font-weight: 700;
   font-size: 26px;
   line-height: 32px;
   margin-top: 24px;
@@ -11,7 +11,7 @@ h1 {
 
 h2 {
   font-family: 'Roboto';
-  font-weight: bold;
+  font-weight: 700;
   font-size: 20px;
   line-height: 28px;
   letter-spacing: 0.15px;
@@ -23,7 +23,7 @@ h2 {
 h3 {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
   line-height: 24px;
   letter-spacing: 0.15px;
@@ -34,7 +34,7 @@ h3 {
 h4 {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.15px;
@@ -45,7 +45,7 @@ h4 {
 p {
   font-family: 'Roboto';
   font-style: normal;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.15px;
@@ -55,7 +55,7 @@ p {
 q {
   font-family: 'Roboto';
   display: block;
-  font-weight: normal;
+  font-weight: 400;
   font-size: 14px;
   line-height: 20px;
   letter-spacing: 0.25px;
@@ -76,7 +76,7 @@ li q{
 }
 
 ul {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 17px;
   line-height: 24px;
   display: block;
@@ -94,7 +94,7 @@ ul li:before{
 }
 
 ol {
-  font-weight: normal;
+  font-weight: 400;
   font-size: 17px;
   line-height: 24px;
   padding-left: 24px;
